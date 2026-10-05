@@ -5,3 +5,4 @@ __pycache__/
 *.sqlite
 *.db
 /Data/backup
+/AGENTS.md
