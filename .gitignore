@@ -6,3 +6,4 @@ __pycache__/
 *.db
 /Data/backup
 /AGENTS.md
+/testing
